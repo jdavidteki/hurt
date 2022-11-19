@@ -1,1 +1,3 @@
 # hurt
+
+**emotion as code
